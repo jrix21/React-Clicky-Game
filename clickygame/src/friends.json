@@ -1,0 +1,49 @@
+[
+    {
+    "id": 1,
+    "name":"Jeff",
+    "image": "https://vignette.wikia.nocookie.net/community-sitcom/images/1/18/Jeff_Season_Six_smug.jpg/revision/latest?cb=20150318152656"
+    },
+
+    {
+    "id": 2,
+    "name":"Britta",
+    "image":"https://vignette.wikia.nocookie.net/community-sitcom/images/f/f0/Britta_Season_Five.jpg/revision/latest?cb=20150606141234"
+    },
+
+    {
+    "id": 3,
+    "name":"Abed",
+    "image":"https://vignette.wikia.nocookie.net/greendale/images/8/81/Abed.png/revision/latest?cb=20101008175408"
+    },
+
+    {
+    "id": 4,
+    "name":"Troy",
+    "image":"https://vignette.wikia.nocookie.net/community-sitcom/images/6/6c/Captain_Troy.jpg/revision/latest?cb=20140124195732"
+    },
+
+    {
+    "id": 5,
+    "name":"Pierce",
+    "image":"https://vignette.wikia.nocookie.net/community-sitcom/images/9/99/Community_s2_chevy_chase_002_595_slogo.jpg/revision/latest?cb=20130620185846"
+    },
+
+    {
+    "id": 6,
+    "name":"Shirley",
+    "image":"https://vignette.wikia.nocookie.net/community-sitcom/images/c/c3/Shirley_season_four.jpg/revision/latest?cb=20130403124052"
+    },
+
+    {
+    "id": 7,
+    "name":"Chang",
+    "image":"https://vignette.wikia.nocookie.net/characters/images/1/10/Ben_Chang.jpg/revision/latest?cb=20151222211545"
+    },
+    
+    {
+    "id": 8,
+    "name":"Annie",
+    "image":"https://vignette.wikia.nocookie.net/community-sitcom/images/8/82/Annie_Season_Five.jpg/revision/latest?cb=20150606151621"
+    }  
+]
