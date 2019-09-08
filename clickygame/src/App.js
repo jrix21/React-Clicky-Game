@@ -3,11 +3,14 @@ import FriendCard from "./components/FriendCard";
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
 import friends from "./friends.json";
+import Header from "./components/Header";
 
 class App extends Component {
   // Setting this.state.friends to the friends json array
   state = {
-    friends
+    friends,
+    score: 0,
+    highscore: 0
   };
 
   removeFriend = id => {
@@ -21,7 +24,8 @@ class App extends Component {
   render() {
     return (
       <Wrapper>
-        <Title>Friends List</Title>
+        <Title>React Clicky Memory Game</Title>
+        <Header score={this.state.score} highscore={this.state.highscore}></Header>
         {this.state.friends.map(friend => (
           <FriendCard
             removeFriend={this.removeFriend}
